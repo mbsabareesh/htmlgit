@@ -1,9 +1,9 @@
 body{
-    background: url(./image/bg3.jpg);
+    background: color(white);
     background-size: cover;
     background-position: center;
     height: 100%;
 }
 p{
-    color:white;
+    color:black;
 }
